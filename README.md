@@ -1,5 +1,6 @@
 # M&M (MentorMenteeWebsite)
 - Mentor and Mentee interaction taken online.
+- Multiple features made in and around Clg's mentor mentee sessions.
 
 ## Screenshots:
 
